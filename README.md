@@ -45,17 +45,17 @@ I'm a third-year BSc Computer Science with Software Engineering student at Coven
 
 ## 🚀 Featured Projects
 
-### [Secure Cloud-Native Media Upload Pipeline](https://github.com/sujayamindev/secure-cloud-native-media-upload-pipeline)
-Serverless AWS architecture with a zero-trust security model. Direct-to-S3 uploads, binary content validation via Lambda, metadata persistence in DynamoDB, and CloudFront delivery — built with Terraform IaC and a GitHub Actions CI pipeline.
-
-`AWS` `S3` `Lambda` `CloudFront` `DynamoDB` `Terraform` `GitHub Actions`
-
----
-
 ### [Reclaima](https://sujayamindev.github.io/reclaima)
 Flutter mobile app with a FastAPI + PostgreSQL backend, containerised with Docker and deployed on an OCI ARM VM. Integrates AWS Textract and Bedrock for intelligent receipt scanning, with a full GitHub Actions CI/CD pipeline.
 
 `Flutter` `FastAPI` `PostgreSQL` `Docker` `OCI` `AWS Textract` `Bedrock` `GitHub Actions`
+
+---
+
+### [Secure Cloud-Native Media Upload Pipeline](https://github.com/sujayamindev/secure-cloud-native-media-upload-pipeline)
+Serverless AWS architecture with a zero-trust security model. Direct-to-S3 uploads, binary content validation via Lambda, metadata persistence in DynamoDB, and CloudFront delivery — built with Terraform IaC and a GitHub Actions CI pipeline.
+
+`AWS` `S3` `Lambda` `CloudFront` `DynamoDB` `Terraform` `GitHub Actions`
 
 <br>
 
